@@ -5,4 +5,9 @@
     &lt;TestId&gt;xUnit::65CD99E8-13E3-4134-B489-34B0A64E1773::net6.0::TestChallenges.TestDay01.TestPart1&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::65CD99E8-13E3-4134-B489-34B0A64E1773::net6.0::TestChallenges.TestDay01.TestPart2&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=863380c0_002D091a_002D44f2_002D9ade_002Dde3be7305c9a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestPart1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::65CD99E8-13E3-4134-B489-34B0A64E1773::net6.0::TestChallenges.TestDay02&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
